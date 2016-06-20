@@ -1,0 +1,13 @@
+function main() {
+        var boop = 1;
+		var arr = [1,2,3];
+        var floop = 4;
+        floop = 11;
+        boink();
+        print floop;
+}
+
+function boink() {
+        var ayy = 1;
+        var lmao = 4;
+}

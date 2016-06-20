@@ -1,0 +1,10 @@
+c:\users\arta\documents\visual studio 2015\Projects\basics\basics\bin\Debug\basics.exe.config
+C:\Users\faso\AppData\Roaming\Skype\My Skype Received Files\basics\basics\bin\Debug\basics.exe.config
+C:\Users\faso\AppData\Roaming\Skype\My Skype Received Files\basics\basics\bin\Debug\basics.exe
+C:\Users\faso\AppData\Roaming\Skype\My Skype Received Files\basics\basics\bin\Debug\basics.pdb
+C:\Users\faso\AppData\Roaming\Skype\My Skype Received Files\basics\basics\obj\Debug\basics.csprojResolveAssemblyReference.cache
+C:\Users\faso\AppData\Roaming\Skype\My Skype Received Files\basics\basics\obj\Debug\basics.exe
+C:\Users\faso\AppData\Roaming\Skype\My Skype Received Files\basics\basics\obj\Debug\basics.pdb
+C:\Users\faso\Source\Repos\TrashScript\basics\bin\Debug\basics.exe.config
+C:\Users\faso\Source\Repos\TrashScript\basics\obj\Debug\basics.exe
+C:\Users\faso\Source\Repos\TrashScript\basics\obj\Debug\basics.pdb
